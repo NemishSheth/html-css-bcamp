@@ -1,0 +1,19 @@
+.di{
+    height:300px;
+    width:500px;
+    background-color: orangered;
+    border-radius:100px;
+    border:20px groove;
+    background-image: url(puppy.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.dv{
+    width: 400px;
+    height: 200px;
+    border: 10px dashed red;
+    margin:20px auto;
+    box-sizing: border-box;
+
+}
