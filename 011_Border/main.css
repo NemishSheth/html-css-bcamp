@@ -1,0 +1,23 @@
+div{
+    width:500px;
+    height:300px;
+    border:1px solid orangered;
+    border-radius:30%;
+    margin: 10px;
+    background-image: url("../009_Absolute_url/puppy.jpg");
+}
+.BgNr{
+    background-repeat: no-repeat;
+}
+.BgNrCover{
+    background-size: cover;
+}
+.img1{
+    border: 5px groove black;
+}
+.img2{
+    border: 5px double black;
+}
+.img3{
+    border: 1px dotted black;
+}

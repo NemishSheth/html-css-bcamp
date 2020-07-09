@@ -1,0 +1,13 @@
+div{
+    border:1px cadetblue ;
+}
+
+.img1{
+    border: 5px groove black;
+}
+.img2{
+    border: 5px double black;
+}
+.img3{
+    border: 1px dotted black;
+}
