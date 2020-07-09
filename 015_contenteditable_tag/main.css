@@ -1,0 +1,10 @@
+[contenteditable]{
+    background-color:  gray;
+    color: red;
+}
+[target=_blank]{
+    color: red;
+}
+[target=self]{
+    color: green;
+}

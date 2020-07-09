@@ -1,0 +1,26 @@
+html{
+    background-color: lightskyblue;
+}
+body{
+    background-color: lightgreen;
+    border:5px solid;
+    width:800px;
+    margin: 0 auto;
+}
+img{
+    width:500px;
+    display:block;
+    border:10px groove yellow;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+
+#fr{
+    color:darkblue;
+    margin-top: 80px;
+}
+#sc{
+    color:red;
+}

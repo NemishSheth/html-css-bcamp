@@ -1,0 +1,41 @@
+li:nth-child(3n){
+    color:red;
+}
+li:nth-child(3),:nth-child(4),:nth-child(5){
+    color: darkgoldenrod;
+}
+[target=_blank]{
+    border: 5px solid red;
+    display: block;
+}
+a:link{
+    color:pink;
+    margin:10px;
+}
+a:visited{
+    color:blue;
+    margin:40px;
+}
+a:hover{
+    color:greenyellow;
+    font-size: 20px;
+}
+a:active{
+    color:red;
+    border:purple;
+}
+p::first-line{
+    color:lightpink;
+}
+p::first-letter{
+    font-size: 20px;
+}
+p{
+    color:black;
+}
+div p{
+    color:red;
+}
+div>p{
+    color:red;
+}
