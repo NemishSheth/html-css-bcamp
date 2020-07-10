@@ -1,0 +1,19 @@
+div{
+    border: 1px solid greenyellow;
+    width:200px;
+    height: 80px;
+    border-radius: 20px;
+    display: inline-block;
+}
+div:nth-child(4n){
+    background-color: grey;
+}
+div:nth-child(4n+1){
+    background-color: hotpink;
+}
+div:nth-child(4n+2){
+    background-color: lawngreen;
+}
+div:nth-child(4n+3){
+    background-color: lightblue;
+}
